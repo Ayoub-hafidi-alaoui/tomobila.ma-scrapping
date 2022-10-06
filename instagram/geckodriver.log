@@ -1,0 +1,490 @@
+1665081730324	geckodriver	INFO	Listening on 127.0.0.1:55379
+1665081730822	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "43569" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8p63TC"
+Gtk-Message: 20:42:10.952: Failed to load module "canberra-gtk-module"
+Gtk-Message: 20:42:10.956: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665081731587	Marionette	INFO	Marionette enabled
+1665081731591	Marionette	INFO	Listening on port 46625
+Read port: 46625
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:43569
+1665081731771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8p63TC/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:43569/devtools/browser/d89df9aa-f5d8-4c12-800a-777374990105
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665081940222	Marionette	INFO	Stopped listening on port 46625
+1665081945575	geckodriver	INFO	Listening on 127.0.0.1:59591
+1665081946036	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "36067" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilednQGGh"
+Gtk-Message: 20:45:46.111: Failed to load module "canberra-gtk-module"
+Gtk-Message: 20:45:46.113: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665081946632	Marionette	INFO	Marionette enabled
+1665081946635	Marionette	INFO	Listening on port 34051
+Read port: 34051
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:36067
+1665081946797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilednQGGh/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:36067/devtools/browser/b758cd27-6b0b-4f35-895d-96fe78249f62
+1665081967717	geckodriver	INFO	Listening on 127.0.0.1:54273
+1665081968207	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "48407" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepEDA7s"
+Gtk-Message: 20:46:08.279: Failed to load module "canberra-gtk-module"
+Gtk-Message: 20:46:08.280: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665081968865	Marionette	INFO	Marionette enabled
+1665081968869	Marionette	INFO	Listening on port 39481
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 39481
+WebDriver BiDi listening on ws://127.0.0.1:48407
+1665081968969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepEDA7s/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:48407/devtools/browser/150415c8-775e-4e01-b48d-317bd33c1a81
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665081976344	Marionette	INFO	Stopped listening on port 34051
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665081977784	Marionette	INFO	Stopped listening on port 39481
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665082062412	geckodriver	INFO	Listening on 127.0.0.1:50199
+1665082062823	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "34447" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGczvve"
+Gtk-Message: 20:47:42.892: Failed to load module "canberra-gtk-module"
+Gtk-Message: 20:47:42.894: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665082063424	Marionette	INFO	Marionette enabled
+1665082063428	Marionette	INFO	Listening on port 36001
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:34447
+Read port: 36001
+1665082063666	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGczvve/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:34447/devtools/browser/7e8fd88e-926b-454f-8830-d759f97a71bc
+1665082187813	geckodriver	INFO	Listening on 127.0.0.1:40031
+1665082188291	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "42729" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqhOpzN"
+Gtk-Message: 20:49:48.368: Failed to load module "canberra-gtk-module"
+Gtk-Message: 20:49:48.369: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665082188921	Marionette	INFO	Marionette enabled
+1665082188924	Marionette	INFO	Listening on port 34529
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 34529
+WebDriver BiDi listening on ws://127.0.0.1:42729
+1665082189039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqhOpzN/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:42729/devtools/browser/7503faf0-0760-4e2e-a57b-a811174a1864
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665082197224	Marionette	INFO	Stopped listening on port 34529
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665082200423	Marionette	INFO	Stopped listening on port 36001
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665082336378	geckodriver	INFO	Listening on 127.0.0.1:49881
+1665082336800	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "44745" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile06qnPo"
+Gtk-Message: 20:52:16.869: Failed to load module "canberra-gtk-module"
+Gtk-Message: 20:52:16.871: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665082337390	Marionette	INFO	Marionette enabled
+1665082337393	Marionette	INFO	Listening on port 34367
+Read port: 34367
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:44745
+1665082337539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile06qnPo/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:44745/devtools/browser/f5bd2500-b4a7-4154-a5d2-24abb2568036
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665082476854	Marionette	INFO	Stopped listening on port 34367
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1665082479752	geckodriver	INFO	Listening on 127.0.0.1:33729
+1665082480223	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "41715" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRSe1Ke"
+Gtk-Message: 20:54:40.290: Failed to load module "canberra-gtk-module"
+Gtk-Message: 20:54:40.292: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665082480813	Marionette	INFO	Marionette enabled
+1665082480816	Marionette	INFO	Listening on port 40497
+Read port: 40497
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:41715
+1665082480951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRSe1Ke/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:41715/devtools/browser/cd5c3dbb-8168-41a4-bd2e-e39962905d74
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1665082640011	geckodriver	INFO	Listening on 127.0.0.1:33415
+1665082640487	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "49075" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0coNqE"
+Gtk-Message: 20:57:20.556: Failed to load module "canberra-gtk-module"
+Gtk-Message: 20:57:20.557: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665082641080	Marionette	INFO	Marionette enabled
+1665082641083	Marionette	INFO	Listening on port 44675
+Read port: 44675
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:49075
+1665082641242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0coNqE/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:49075/devtools/browser/bb09558c-8abf-4973-b9dd-f186069f02f5
+1665082664469	geckodriver	INFO	Listening on 127.0.0.1:34645
+1665082664951	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "40257" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelMiJ20"
+Gtk-Message: 20:57:45.027: Failed to load module "canberra-gtk-module"
+Gtk-Message: 20:57:45.028: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665082665557	Marionette	INFO	Marionette enabled
+1665082665561	Marionette	INFO	Listening on port 36315
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:40257
+Read port: 36315
+1665082665814	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelMiJ20/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:40257/devtools/browser/8f219aeb-18a7-4268-a489-7ebb91b63e29
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2352))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:733:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:779:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:660:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _sendRequestBody@resource://devtools/server/actors/network-monitor/network-observer.js:1444:7
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:578:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:690:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1444, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1444))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:733:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:779:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:660:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _sendRequestBody@resource://devtools/server/actors/network-monitor/network-observer.js:1444:7
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:578:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:690:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1444, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1444))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:733:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:779:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:660:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _sendRequestBody@resource://devtools/server/actors/network-monitor/network-observer.js:1444:7
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:578:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:690:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1444, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1444))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1041:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:581:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:690:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1041, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1041))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:733:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:360:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1041:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:581:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:690:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1041, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1041))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:733:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:360:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1041:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:581:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:690:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1041, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1041))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:733:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:360:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+console.error: "Unable to find target with innerWindowId:4294967298"
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3izLG4/yT/l/en_US/hrUtU0uZLwE.js?_nc_x=Ij3Wp8lg5Kz, line 1217: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3izLG4/yT/l/en_US/hrUtU0uZLwE.js?_nc_x=Ij3Wp8lg5Kz, line 1217: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3izLG4/yT/l/en_US/hrUtU0uZLwE.js?_nc_x=Ij3Wp8lg5Kz, line 1217: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yH/l/en_US/m8xXck7PUUt.js?_nc_x=Ij3Wp8lg5Kz, line 38: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:733:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:779:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:660:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _sendRequestBody@resource://devtools/server/actors/network-monitor/network-observer.js:1444:7
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:578:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:690:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1444, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1444))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1041:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:581:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:690:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1041, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1041))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:733:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:360:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+console.error: "Unable to find target with innerWindowId:4294967312"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665082821114	Marionette	INFO	Stopped listening on port 44675
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665082822503	Marionette	INFO	Stopped listening on port 36315
+1665082999486	geckodriver	INFO	Listening on 127.0.0.1:44617
+1665083000051	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "58159" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8zDx5U"
+Gtk-Message: 21:03:20.153: Failed to load module "canberra-gtk-module"
+Gtk-Message: 21:03:20.154: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665083000751	Marionette	INFO	Marionette enabled
+1665083000754	Marionette	INFO	Listening on port 35105
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 35105
+WebDriver BiDi listening on ws://127.0.0.1:58159
+1665083000918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8zDx5U/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:58159/devtools/browser/c9b060d2-15ac-47bb-896c-fc9f49c9322d
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665083024393	Marionette	INFO	Stopped listening on port 40497
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665083027589	Marionette	INFO	Stopped listening on port 35105
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665083028951	geckodriver	INFO	Listening on 127.0.0.1:56679
+1665083029419	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "59501" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHrvU0a"
+Gtk-Message: 21:03:49.489: Failed to load module "canberra-gtk-module"
+Gtk-Message: 21:03:49.491: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665083030048	Marionette	INFO	Marionette enabled
+1665083030051	Marionette	INFO	Listening on port 43807
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 43807
+WebDriver BiDi listening on ws://127.0.0.1:59501
+1665083030214	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHrvU0a/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:59501/devtools/browser/b05ac9fe-4ad2-4ace-a484-bf90ea6e9418
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3izLG4/yT/l/en_US/hrUtU0uZLwE.js?_nc_x=Ij3Wp8lg5Kz, line 1217: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3izLG4/yT/l/en_US/hrUtU0uZLwE.js?_nc_x=Ij3Wp8lg5Kz, line 1217: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3izLG4/yT/l/en_US/hrUtU0uZLwE.js?_nc_x=Ij3Wp8lg5Kz, line 1217: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yH/l/en_US/m8xXck7PUUt.js?_nc_x=Ij3Wp8lg5Kz, line 38: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665083227031	geckodriver	INFO	Listening on 127.0.0.1:48469
+1665083227507	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "56089" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4tGfoJ"
+Gtk-Message: 21:07:07.579: Failed to load module "canberra-gtk-module"
+Gtk-Message: 21:07:07.581: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665083228138	Marionette	INFO	Marionette enabled
+1665083228141	Marionette	INFO	Listening on port 38135
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 38135
+WebDriver BiDi listening on ws://127.0.0.1:56089
+1665083228314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4tGfoJ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:56089/devtools/browser/451562d9-0e20-4c52-962c-6a1c422b4a34
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3izLG4/yT/l/en_US/hrUtU0uZLwE.js?_nc_x=Ij3Wp8lg5Kz, line 1217: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3izLG4/yT/l/en_US/hrUtU0uZLwE.js?_nc_x=Ij3Wp8lg5Kz, line 1217: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3izLG4/yT/l/en_US/hrUtU0uZLwE.js?_nc_x=Ij3Wp8lg5Kz, line 1217: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yH/l/en_US/m8xXck7PUUt.js?_nc_x=Ij3Wp8lg5Kz, line 38: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+1665083713615	geckodriver	INFO	Listening on 127.0.0.1:52827
+1665083713935	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "41137" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1APLe3"
+Gtk-Message: 21:15:14.010: Failed to load module "canberra-gtk-module"
+Gtk-Message: 21:15:14.012: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665083714549	Marionette	INFO	Marionette enabled
+1665083714552	Marionette	INFO	Listening on port 37379
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:41137
+Read port: 37379
+1665083714756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1APLe3/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:41137/devtools/browser/f742c619-f56d-4a6f-b137-a8f37a7cbc37
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3izLG4/yT/l/en_US/hrUtU0uZLwE.js?_nc_x=Ij3Wp8lg5Kz, line 1217: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3izLG4/yT/l/en_US/hrUtU0uZLwE.js?_nc_x=Ij3Wp8lg5Kz, line 1217: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3izLG4/yT/l/en_US/hrUtU0uZLwE.js?_nc_x=Ij3Wp8lg5Kz, line 1217: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yH/l/en_US/m8xXck7PUUt.js?_nc_x=Ij3Wp8lg5Kz, line 38: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665083756795	Marionette	INFO	Stopped listening on port 37379
+1665083759149	geckodriver	INFO	Listening on 127.0.0.1:50461
+1665083759473	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "43423" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileruZ8xg"
+Gtk-Message: 21:15:59.561: Failed to load module "canberra-gtk-module"
+Gtk-Message: 21:15:59.564: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665083760140	Marionette	INFO	Marionette enabled
+1665083760144	Marionette	INFO	Listening on port 45527
+Read port: 45527
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:43423
+1665083760251	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileruZ8xg/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:43423/devtools/browser/30dfca27-5a4d-4f82-95bd-fb3ceadfb7db
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1665083768945	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3izLG4/yT/l/en_US/hrUtU0uZLwE.js?_nc_x=Ij3Wp8lg5Kz, line 1217: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3izLG4/yT/l/en_US/hrUtU0uZLwE.js?_nc_x=Ij3Wp8lg5Kz, line 1217: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3izLG4/yT/l/en_US/hrUtU0uZLwE.js?_nc_x=Ij3Wp8lg5Kz, line 1217: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yH/l/en_US/m8xXck7PUUt.js?_nc_x=Ij3Wp8lg5Kz, line 38: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665083840345	Marionette	INFO	Stopped listening on port 45527
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665083843983	Marionette	INFO	Stopped listening on port 38135
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665083847992	Marionette	INFO	Stopped listening on port 43807
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665083853064	geckodriver	INFO	Listening on 127.0.0.1:58801
+1665083853512	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "43817" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWf9nsb"
+Gtk-Message: 21:17:33.603: Failed to load module "canberra-gtk-module"
+Gtk-Message: 21:17:33.605: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665083854152	Marionette	INFO	Marionette enabled
+1665083854155	Marionette	INFO	Listening on port 44121
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 44121
+WebDriver BiDi listening on ws://127.0.0.1:43817
+1665083854264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWf9nsb/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:43817/devtools/browser/bb5a3170-2a92-4fd4-862c-2f15a28c2c71
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1665083863722	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3izLG4/yT/l/en_US/hrUtU0uZLwE.js?_nc_x=Ij3Wp8lg5Kz, line 1217: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3izLG4/yT/l/en_US/hrUtU0uZLwE.js?_nc_x=Ij3Wp8lg5Kz, line 1217: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3izLG4/yT/l/en_US/hrUtU0uZLwE.js?_nc_x=Ij3Wp8lg5Kz, line 1217: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yH/l/en_US/m8xXck7PUUt.js?_nc_x=Ij3Wp8lg5Kz, line 38: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
