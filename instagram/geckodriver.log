@@ -488,3 +488,7 @@ JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3izLG4/yT/l/en_US/
 JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3izLG4/yT/l/en_US/hrUtU0uZLwE.js?_nc_x=Ij3Wp8lg5Kz, line 1217: unreachable code after return statement
 JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3izLG4/yT/l/en_US/hrUtU0uZLwE.js?_nc_x=Ij3Wp8lg5Kz, line 1217: unreachable code after return statement
 JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yH/l/en_US/m8xXck7PUUt.js?_nc_x=Ij3Wp8lg5Kz, line 38: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665095683702	Marionette	INFO	Stopped listening on port 44121
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
